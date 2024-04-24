@@ -1,3 +1,5 @@
+**Firma de transport**
+
 **Descriere:**
 
 Acest proiect este o aplicație de gestionare a transporturilor, care permite utilizatorilor să înregistreze și să vizualizeze informații despre rute, șoferi, mașini și transporturi. Scopul său este de a oferi o soluție simplă și eficientă pentru administrarea activităților legate de transporturi.
