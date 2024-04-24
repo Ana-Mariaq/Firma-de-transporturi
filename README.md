@@ -23,6 +23,10 @@ Datele introduse de utilizator sunt salvate automat în fișiere pentru păstrar
 - C#
 - Windows Forms
 - .NET Framework
+
+**Mediu de dezvoltare:**
+
+- Visual Studio 2022
   
 **Autor:**
 
